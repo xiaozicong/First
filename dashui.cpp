@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-
+      
 int main()
 {
     int n, r, s[10], a[10];
