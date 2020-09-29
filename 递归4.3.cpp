@@ -10,7 +10,8 @@ void move(int n,char a,char c,char b)
     cout << k << ":form " << a << "-->" << c << endl;
     move(n - 1, b, c, a);
 
-}
+}    
+
 int main()
 {
     cout << "n=";
