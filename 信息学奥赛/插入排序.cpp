@@ -2,7 +2,7 @@
 using namespace std;
 const int MAXN = 10001;
 int main()
-{
+{    
     int n, i, j, k;
     float temp, a[MAXN];
     cin >> n;
